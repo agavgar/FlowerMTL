@@ -1,0 +1,6 @@
+framework module Pods_FlowerModelTestingLearning {
+  umbrella header "Pods-FlowerModelTestingLearning-umbrella.h"
+
+  export *
+  module * { export * }
+}
